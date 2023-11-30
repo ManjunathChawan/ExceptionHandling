@@ -4,7 +4,8 @@
 
 ### Description
 In this folder Some sample examples are there on each topics like 
-*Multiple Catch block 
-*Nested Try Block 
-*Finally 
-*Throw
+
+* Multiple Catch block 
+* Nested Try Block 
+* Finally 
+* Throw
